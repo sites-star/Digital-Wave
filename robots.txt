@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digital-wave-nine.vercel.app/sitemap.xml
